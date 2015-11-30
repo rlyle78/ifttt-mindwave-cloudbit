@@ -5,7 +5,7 @@ var attentionGraph = new Barcli({
   range: [0, 100],
 });
 
-var apiKey = 'dZAP6jLtUo51sCdprJLEIv';
+var apiKey = '<Your IFTTT API Key>';
 var IFTTTMaker = require('iftttmaker')(apiKey);
 var trigger_on = 'MindControlTrigger_On';
 var trigger_off = 'MindControlTrigger_Off';
