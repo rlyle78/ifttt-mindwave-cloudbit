@@ -1,5 +1,5 @@
 //var config = require('nconf');
-var apiKey = 'dZAP6jLtUo51sCdprJLEIv';
+var apiKey = '<Your API Key>';
 //var apiKey = config.util.getEnv('NODE_ENV')
 //var apiKey = config.get('NODE_ENV');
 console.log(apiKey);  
